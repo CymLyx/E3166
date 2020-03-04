@@ -1,0 +1,9 @@
+c:\users\花憨憨\documents\visual studio 2015\Projects\serialport02\serialport02\bin\Debug\serialport02.exe.config
+c:\users\花憨憨\documents\visual studio 2015\Projects\serialport02\serialport02\bin\Debug\serialport02.exe
+c:\users\花憨憨\documents\visual studio 2015\Projects\serialport02\serialport02\bin\Debug\serialport02.pdb
+c:\users\花憨憨\documents\visual studio 2015\Projects\serialport02\serialport02\obj\Debug\serialport02.csprojResolveAssemblyReference.cache
+c:\users\花憨憨\documents\visual studio 2015\Projects\serialport02\serialport02\obj\Debug\serialport02.Form1.resources
+c:\users\花憨憨\documents\visual studio 2015\Projects\serialport02\serialport02\obj\Debug\serialport02.Properties.Resources.resources
+c:\users\花憨憨\documents\visual studio 2015\Projects\serialport02\serialport02\obj\Debug\serialport02.csproj.GenerateResource.Cache
+c:\users\花憨憨\documents\visual studio 2015\Projects\serialport02\serialport02\obj\Debug\serialport02.exe
+c:\users\花憨憨\documents\visual studio 2015\Projects\serialport02\serialport02\obj\Debug\serialport02.pdb
